@@ -91,7 +91,7 @@
         <dependency>
             <groupId>net.sf.saxon</groupId>
             <artifactId>Saxon-HE</artifactId>
-            <version>11.4</version>
+            <version>11.6</version>
         </dependency>
         <dependency>
             <groupId>nu.validator</groupId>
@@ -367,7 +367,7 @@
                     <dependency>
                         <groupId>net.sf.saxon</groupId>
                         <artifactId>Saxon-HE</artifactId>
-                        <version>11.4</version>
+                        <version>11.6</version>
                     </dependency>
                 </dependencies>
             </plugin>
@@ -504,7 +504,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -517,7 +517,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -530,7 +530,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
