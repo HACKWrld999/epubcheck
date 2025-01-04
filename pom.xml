@@ -112,7 +112,7 @@
         <dependency>
             <groupId>org.relaxng</groupId>
             <artifactId>jing</artifactId>
-            <version>20181222</version>
+            <version>20241231</version>
             <exclusions>
                 <exclusion>
                     <groupId>xml-apis</groupId>
@@ -504,7 +504,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -517,7 +517,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -530,7 +530,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <execute />
+                                        <execute/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
